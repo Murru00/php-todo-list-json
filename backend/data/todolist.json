@@ -1,0 +1,39 @@
+
+[
+    {
+        "name": "Mangiare al mc donald",
+        "done": false
+    },
+    {
+        "name": "Lavare tuta Nike",
+        "done": true
+    },
+    {
+        "name": "Noleggiare Macchina",
+        "done": false
+    },
+    {
+        "name": "Lezione Boolean",
+        "done": true
+    },
+    {
+        "name": "Fare gli esercizi",
+        "done": false
+    },
+    {
+        "name": "Comprare scarpe nuove",
+        "done": true
+    },
+    {
+        "name": "Andare a trovare nonna",
+        "done": false
+    },
+    {
+        "name": "Fare colazione al bar",
+        "done": false
+    },
+    {
+        "name": "Buongiorno campiò",
+        "done": false
+    }
+]
